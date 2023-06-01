@@ -15,9 +15,9 @@
   "devDependencies": {
     "@nativescript/android": "8.3.1",
     "@nativescript/preview-cli": "1.0.2",
-    "@nativescript/stackblitz": "0.0.5",
+    "@nativescript/stackblitz": "0.0.6",
     "@nativescript/tailwind": "^2.0.1",
-    "@nativescript/types-minimal": "~8.3.0",
+    "@nativescript/types-minimal": "~8.4.0",
     "@nativescript/webpack": "~5.0.0",
     "@types/node": "~17.0.21",
     "nativescript-vue-template-compiler": "~2.9.0",
